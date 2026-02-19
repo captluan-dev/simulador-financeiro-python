@@ -22,7 +22,7 @@ eventos.py → Eventos aleatórios
 config.py → Lista com os meses
 utils.py → Utilidades extras
 
-## ▶️ Como executar o projeto
+## Como executar o projeto
 
 1. Clone o repositório:
 
@@ -36,10 +36,10 @@ cd simulador-financeiro-python
 
 python main.py
 
-## 📚 Objetivo do Projeto
+## Objetivo do Projeto
 
 Projeto criado para praticar lógica de programação, organização de código e conceitos financeiros básicos.
 
-## 👨‍💻 Autor
+## Autor
 
 Luan Welton
